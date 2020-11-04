@@ -1,1 +1,3 @@
 # Smart-Rockets
+
+This is a simulation of rockets that start at a spawn location and try to get to a goal location while avoiding a rectangle obstacle. This is done via using a genetic algorithm here is a good explantion of how they work: [link](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3?gi=934b8bde37ef) I made it so you can easily edit the code in the Runner.java file to change the location of the obstacle, spawn, and goal to your prefered area. Through this project I learned about genetic algorithms and how they can be used to do intresting and helpful tasks like this smart rockets project.
